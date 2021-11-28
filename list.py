@@ -4,7 +4,7 @@ print ("------------------")
 
 # Membuat list
 
-# a = [] #empty list
+# a = [] # empty list
 # a = [1, 10, 6, 8] # list of integer
 # a = [1, "Hello", 6.3] # list with mixed datatype
 
